@@ -1,13 +1,9 @@
 /* eslint-disable react/no-unescaped-entities */
-<<<<<<< HEAD
 import { React, useEffect } from 'react';
 
 import Typed from 'react-typed';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-=======
-import React from 'react';
->>>>>>> 071e97a255508066d21cbc21d16bb5718f03a21c
 
 import { ReactComponent as ReactJS } from '../assets/react.svg';
 import { ReactComponent as NextJS } from '../assets/nextjs.svg';
